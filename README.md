@@ -71,7 +71,7 @@ If you have suggestions for improving this notebook or additional project ideas,
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This repository is licensed under the MIT License.
 
 ## Connect with Me
 
